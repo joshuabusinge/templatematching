@@ -1,0 +1,5 @@
+Step 1 : Navigate to this folder using command line and download the necessary python packages using following command.
+        "pip install -r requirements.txt"
+
+Step 2: Place your image in this folder and run the following command to run the program. Replace img1.jpg with the image name that you placed in this folder.
+        "python main.py -i img1.jpg"
